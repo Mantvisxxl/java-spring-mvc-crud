@@ -1,4 +1,4 @@
-package com.mantvydas.studentmvccrud.Controller;
+package com.mantvydas.studentmvccrud.controller;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;
